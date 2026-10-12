@@ -27,3 +27,9 @@ Planning and hardware verification. Ubuntu installation and remote access have n
 
 ## Documentation
 Each completed task will include actions taken, problems encountered, resolutions, and verification evidence.
+
+## Installation Preparation
+- Hardware inventory completed.
+- No files on the Lenovo require backup.
+- Installation media: 32 GB USB flash drive.
+- Planned installation: Replace Windows with Ubuntu Server.
