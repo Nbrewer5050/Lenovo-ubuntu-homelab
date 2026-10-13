@@ -33,3 +33,17 @@ Each completed task will include actions taken, problems encountered, resolution
 - No files on the Lenovo require backup.
 - Installation media: 32 GB USB flash drive.
 - Planned installation: Replace Windows with Ubuntu Server.
+
+## Current Status
+Ubuntu Server 26.04.1 LTS is installed and operational.
+
+Completed:
+- Replaced Windows with Ubuntu Server.
+- Configured Starlink Wi-Fi using Netplan.
+- Verified SSH access from my MacBook.
+- Installed available package upgrades.
+- Restarted the server and verified SSH reconnection.
+- Confirmed the running kernel: 7.0.0-38-generic.
+
+Next milestone:
+Practice Linux users, permissions, and service management.
