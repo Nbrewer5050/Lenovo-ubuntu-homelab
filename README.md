@@ -16,7 +16,19 @@ Build an Ubuntu Server homely to develop hands-on skills in Linux administration
 - Storage Capacity:
 
 ## Current Status
-Planning and hardware verification. Ubuntu installation and remote access have not been verified.
+Ubuntu Server 26.04.1 LTS is installed and operational.
+
+Completed:
+- Replaced Windows with Ubuntu Server.
+- Configured Starlink Wi-Fi using Netplan.
+- Verified SSH access from my MacBook.
+- Installed available package upgrades.
+- Restarted the server and verified SSH reconnection.
+- Confirmed the running kernel: 7.0.0-38-generic.
+
+Next milestone:
+Practice Linux users, permissions, and service management.
+
 
 ## First Milestone 
 1. confirm hardware specifications.
@@ -34,16 +46,3 @@ Each completed task will include actions taken, problems encountered, resolution
 - Installation media: 32 GB USB flash drive.
 - Planned installation: Replace Windows with Ubuntu Server.
 
-## Current Status
-Ubuntu Server 26.04.1 LTS is installed and operational.
-
-Completed:
-- Replaced Windows with Ubuntu Server.
-- Configured Starlink Wi-Fi using Netplan.
-- Verified SSH access from my MacBook.
-- Installed available package upgrades.
-- Restarted the server and verified SSH reconnection.
-- Confirmed the running kernel: 7.0.0-38-generic.
-
-Next milestone:
-Practice Linux users, permissions, and service management.
