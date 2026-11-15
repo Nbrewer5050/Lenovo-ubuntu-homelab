@@ -111,4 +111,3 @@ The homelab uses Ubuntu Server, Docker, and Tailscale VPN to support containeriz
 Documented real-world challenges encountered during the Lenovo Lab deployment, including SSH timeouts, VPN connectivity, Cloudflare service diagnostics, and Docker container management.
 
 [View Troubleshooting Documentation](docs/troubleshooting.md)
-
