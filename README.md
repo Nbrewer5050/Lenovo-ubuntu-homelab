@@ -105,3 +105,9 @@ Linux System Administration | Docker | Container Management | TCP/IP Networking 
 The homelab uses Ubuntu Server, Docker, and Tailscale VPN to support containerized services and secure remote administration.
 
 [View Infrastructure Architecture and Network Diagram](docs/architecture.md)
+
+## Troubleshooting and Lessons Learned
+
+Documented real-world challenges encountered during the Lenovo Lab deployment, including SSH timeouts, VPN connectivity, Cloudflare service diagnostics, and Docker container management.
+
+[View Troubleshooting Documentation](docs/troubleshooting.md)
