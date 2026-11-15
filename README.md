@@ -98,3 +98,10 @@ Linux System Administration | Docker | Container Management | TCP/IP Networking 
 - Automate backups and routine maintenance.
 - Expand containerized services.
 - Explore AI-assisted infrastructure monitoring and security automation.
+
+
+## Infrastructure Architecture
+
+The homelab uses Ubuntu Server, Docker, and Tailscale VPN to support containerized services and secure remote administration.
+
+[View Infrastructure Architecture and Network Diagram](docs/architecture.md)
