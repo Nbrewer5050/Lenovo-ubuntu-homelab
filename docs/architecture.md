@@ -1,6 +1,6 @@
 # Lenovo Ubuntu Homelab - Infrastructure Architecture
 
-## Overview
+## Overview 
 
 This project uses repurposed Lenovo hardware running Ubuntu Server to host containerized infrastructure services and provide secure remote administration through Tailscale VPN.
 
